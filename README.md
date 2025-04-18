@@ -12,7 +12,7 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## Output:
 
-   - simple interest = p*t*r
+   - simple interest = p \* t \* r
 
 
 
@@ -27,4 +27,4 @@ Una calculadora que calcula el interés simple dado el capital, el tipo de inter
    - r, tipo de interés anual
 ## Salida:
    
-   - interés simple = p*t*r
+   - interés simple = p \* t \* r
